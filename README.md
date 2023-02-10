@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **shahhussainahamed@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Hussain/Downloads/Hussain_Resume%60%20(2).pdf](file:///C:/Users/Hussain/Downloads/Hussain_Resume%60%20(2).pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
