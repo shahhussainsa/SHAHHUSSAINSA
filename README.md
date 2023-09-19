@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahhussainsa&label=Profile%20views&color=0e75b6&style=flat" alt="shahhussainsa" /> </p>
 
-- 🌱 I’m currently learning **computer science and engineering**
+- 🌱 I’m Graduated in **computer science and engineering**
 
 - 👨‍💻 All of my projects are available at [https://shahhussainsa.github.io/](https://shahhussainsa.github.io/)
 
