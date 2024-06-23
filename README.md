@@ -1,6 +1,6 @@
 <h1 align="center" style="font-weight: bold;">Hi 👋, I'm SHAH HUSSAIN AHAMED S A</h1>
 <h3 align="center">A Passionate Software Engineer and FrontEnd Developer</h3>
-<img align="right" alt="coding" width="400" src="[https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966](https://unsplash.com/photos/a-white-dice-with-a-black-github-logo-on-it-HLQDfaJUTVI)">
+<img align="right" alt="coding" width="400" src="[https://www.pexels.com/photo/coding-script-965345/](https://unsplash.com/photos/a-white-dice-with-a-black-github-logo-on-it-HLQDfaJUTVI)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahhussainsa&label=Profile%20views&color=0e75b6&style=flat" alt="shahhussainsa" /> </p>
 
